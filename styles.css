@@ -341,19 +341,19 @@ section .button button:hover{
 }
 
 .skills .skills-content .right .SQL::before{
-    width: 80%;
+    width: 85%;
 }
 .skills .skills-content .right .HTMLCSS::before{
-    width: 70%;
+    width: 75%;
 }
 .skills .skills-content .right .JS::before{
-    width: 50%;
+    width: 60%;
 }
 .skills .skills-content .right .PHP::before{
-    width: 40%;
+    width: 65%;
 }
 .skills .skills-content .right .CJP::before{
-    width: 60%;
+    width: 65%;
 }
 
 /* Projects Section CSS */
